@@ -1,0 +1,40 @@
+.my-pic-back{
+	margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.my-g{
+  margin: 0 auto;
+  width: 100%;
+}
+
+.my-g-fixed {
+  max-width: 1000px;
+}
+
+.my-nav {
+    padding:0 1.3rem;
+}
+
+.case-li-mengban {
+	width: 100%;
+	background: rgba(0, 0, 0, .72);
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+}
+
+.case-word {
+	position: absolute;
+	left: 0px;
+	bottom: -80px;
+	z-index: 5;
+	width: 100%;
+	color: #FFFFFF;
+	text-align: center;
+}
+  
